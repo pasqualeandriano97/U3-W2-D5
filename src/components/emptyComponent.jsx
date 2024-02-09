@@ -12,7 +12,8 @@ const EmptyComponent = () => {
           <div className="d-flex justify-content-center ">
             <Image
               src="https://images.ctfassets.net/hrltx12pl8hq/4GCENlb1OdADKjbkIhs7XM/dbcf42f42de3782d203a4067a10364ab/shutterstock_1145259947-min.jpg?fit=fill&w=600&h=400"
-              className="border-0 border-rounded mx-auto"
+              className=" rounded"
+              style={{ "box-shadow": "0px 0px 27px 9px #D1D1D1" }}
             />
           </div>
         </Col>
