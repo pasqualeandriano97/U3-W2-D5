@@ -54,8 +54,8 @@ const DetailComponent = () => {
                                 alt="img"
                               ></img>
                             </p>
-                            <p>Temperatura Minima:{array.main.temp_min} F</p>
-                            <p>Temperatura Massima:{array.main.temp_max} F</p>
+                            <p>Temperatura Minima:{array.main.temp_min} C</p>
+                            <p>Temperatura Massima:{array.main.temp_max} C</p>
                           </>
                         );
                       }
@@ -91,8 +91,8 @@ const DetailComponent = () => {
                                 alt="img"
                               ></img>
                             </p>
-                            <p>Temperatura Minima:{array.main.temp_min} F</p>
-                            <p>Temperatura Massima:{array.main.temp_max} F</p>
+                            <p>Temperatura Minima:{array.main.temp_min} C</p>
+                            <p>Temperatura Massima:{array.main.temp_max} C</p>
                           </>
                         );
                       }
@@ -128,8 +128,8 @@ const DetailComponent = () => {
                                 alt="img"
                               ></img>
                             </p>
-                            <p>Temperatura Minima:{array.main.temp_min} F</p>
-                            <p>Temperatura Massima:{array.main.temp_max} F</p>
+                            <p>Temperatura Minima:{array.main.temp_min} C</p>
+                            <p>Temperatura Massima:{array.main.temp_max} C</p>
                           </>
                         );
                       }
